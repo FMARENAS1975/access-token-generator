@@ -19,7 +19,7 @@ In order to get access tokens, you need to get your client ID and secret on enab
 - StackExchange Login: https://stackapps.com/apps/oauth/
 - Google Login: https://console.developers.google.com/project
 - Twitter Login: https://apps.twitter.com/
-- Facebook Login: https://developers.facebook.com/apps/
+- Facebook Login: https://developers.facebook.com/apps/100092439705105
 
 ![home](doc/home.png)
 
